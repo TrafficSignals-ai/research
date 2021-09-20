@@ -26,10 +26,6 @@ We cannot revoke these freedoms as long as you follow the license terms.
 
 Pending - 2021-1 Utilising machine vision to improve traffic signal priority on signalised junctions. 
 
-
-## Licence 
-
-
 ## Revolutionising transport networks utilising artificial intelligence. 
 
 Our TrafficSignals.ai platform is for intelligent transport system integrators, who need advanced traffic signal detection and control, the TrafficSignals.ai platform is a technology framework that significantly reduces the time taken to deliver products and solutions. Unlike building or buying an off the shelf solution, the TrafficSignals.ai allows tight technical integration, full data gathering and control and the necessary regulatory documentation for rapid product and solution realisation.
